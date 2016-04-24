@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "18C8A4005D859F4D6C177E40BC64030E5D5F0C64",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C4EF9BFE545A39C32590EAE199EAB1CF572616EA" : 0,
+    "18C8A4005D859F4D6C177E40BC64030E5D5F0C64" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "00053EC3-1690-4BFE-AA02-0869783C9C68",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C4EF9BFE545A39C32590EAE199EAB1CF572616EA" : "",
+    "18C8A4005D859F4D6C177E40BC64030E5D5F0C64" : "RN-MapboxSVGOverlay\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MapCircle",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios\/MapCircle.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:brandonbrown\/RN-MapboxSVGOverlay.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "18C8A4005D859F4D6C177E40BC64030E5D5F0C64"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com\/brandonbrown\/LearnReactNative",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C4EF9BFE545A39C32590EAE199EAB1CF572616EA"
+    }
+  ]
+}
